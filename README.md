@@ -52,6 +52,25 @@ Generates a readable clinic summary including:
 
 ---
 
+
+
+
+## 🎥 Project Demonstration
+
+A complete walkthrough of the **ClinicPulse EOD Billing Agent** is available below. The demo showcases the complete workflow of the application, including data upload, validation, reconciliation, analytics dashboard, AI-generated insights, and API documentation.
+
+<p align="center">
+  <a href="https://youtu.be/YOUR_YOUTUBE_VIDEO_LINK" target="_blank">
+    <img src="screenshots/upload.png" alt="ClinicPulse EOD Billing Agent Demo" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>👆 Click the image above to watch the full project demonstration on YouTube.</b>
+</p>
+
+
+
 ## 🔍 Traceability
 
 Every value shown in the narrative references deterministic analytics.
