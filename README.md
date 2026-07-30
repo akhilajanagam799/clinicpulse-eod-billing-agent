@@ -420,20 +420,18 @@ http://localhost:5173
 
 ![Analytics](screenshots/analytics1.png)
 
-![Medicines by Quantity and Revenue](screenshots/analytics2.png)
 ---
+
+![Medicines by Quantity and Revenue](screenshots/analytics2.png)
+
+
 
 ## AI Summary
 
-![AI Summary](screenshots/ai-summary.png)
+![AI Summary](screenshots/aisummary.png)
 
 ---
 
-## Swagger Documentation
-
-![Swagger](screenshots/swagger.png)
-
----
 
 ## Upload Interface
 
