@@ -55,6 +55,9 @@ Generates a readable clinic summary including:
 
 
 
+
+
+
 ## 🎥 Project Demonstration
 
 A complete walkthrough of the **ClinicPulse EOD Billing Agent** is available below. The demo showcases the complete workflow of the application, including data upload, validation, reconciliation, analytics dashboard, AI-generated insights, and API documentation.
@@ -69,6 +72,38 @@ A complete walkthrough of the **ClinicPulse EOD Billing Agent** is available bel
   <b>
 </p>
 
+
+
+# 📷 Screenshots
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Analytics
+
+![Analytics](screenshots/analytics1.png)
+
+---
+
+![Medicines by Quantity and Revenue](screenshots/analytics2.png)
+
+
+
+## AI Summary
+
+![AI Summary](screenshots/aisummary.png)
+
+---
+
+
+## Upload Interface
+
+![Upload](screenshots/upload.png)
+
+---
 
 
 ## 🔍 Traceability
@@ -405,58 +440,13 @@ Frontend runs at:
 http://localhost:5173
 ```
 
----
-
-# 🌐 Live Demo
-
-## Frontend
-
-> https://your-vercel-url.vercel.app
-
----
-
-## Backend API
-
-> https://your-render-url.onrender.com
-
----
-
-## Swagger API Documentation
-
-> https://your-render-url.onrender.com/docs
-
----
-
-# 📷 Screenshots
-
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Analytics
-
-![Analytics](screenshots/analytics1.png)
-
----
-
-![Medicines by Quantity and Revenue](screenshots/analytics2.png)
 
 
 
-## AI Summary
-
-![AI Summary](screenshots/aisummary.png)
-
----
 
 
-## Upload Interface
 
-![Upload](screenshots/upload.png)
 
----
 
 # 🧪 Tested Dataset
 
