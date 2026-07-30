@@ -418,8 +418,9 @@ http://localhost:5173
 
 ## Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/analytics1.png)
 
+![Medicines by Quantity and Revenue](screenshots/analytics2.png)
 ---
 
 ## AI Summary
